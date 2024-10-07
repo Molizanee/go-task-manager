@@ -1,4 +1,4 @@
-# RESTful API For Task Manager App
+# RESTful API For Task Manager App in Golang
 
 ## Stack used:
 - Golang
@@ -20,5 +20,5 @@
   "description": "Task Description",
   "owner": "Task Owner",
   "status": "Task Status"
-}
+  }
   ```  
