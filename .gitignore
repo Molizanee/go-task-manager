@@ -1,2 +1,4 @@
 # DB migrations
 /db/migrations
+
+.env
