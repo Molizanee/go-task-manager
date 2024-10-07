@@ -5,6 +5,7 @@
 - Librarys:
   - Chi
   - Pgx
+  - Goose
 - PostgreSQL
 
 ## Endpoints:
@@ -21,4 +22,4 @@
   "owner": "Task Owner",
   "status": "Task Status"
   }
-  ```  
+  ```
